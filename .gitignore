@@ -8,6 +8,7 @@
 *.lai
 *.so
 *.dll
+*.lib
 *.dylib
 
 # Qt-es
